@@ -1,4 +1,4 @@
-package kikoo
+package test
 
 import (
 	"fmt"
